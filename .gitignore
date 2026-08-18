@@ -1,0 +1,20 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Temporary files
+.vite/
+
+# Environment variables
+.env*
+
+# Package manager
+package-lock.json
+
+# IDE
+.vscode/
+
+```
